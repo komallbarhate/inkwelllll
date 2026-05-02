@@ -28,6 +28,9 @@ export function SiteHeader() {
               <Button asChild variant="ghost" size="sm">
                 <Link to="/dashboard">My posts</Link>
               </Button>
+              <Button asChild variant="ghost" size="sm">
+                <Link to="/profile">Profile</Link>
+              </Button>
               <Button
                 size="sm"
                 variant="outline"
